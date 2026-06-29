@@ -1,27 +1,27 @@
 player_id,player_name,age,nationality,team,weight_kg
-P00055,Rodri Fati,26,Spanish,Spain,75
-P00070,Ansu Le Normand,19,Spanish,Spain,75
-P00066,Gavi Ramos,18,Spanish,Spain,72
-P00073,Pedro Cubarsi,20,Spanish,Spain,74
-P00059,Alvaro Oyarzabal,23,Spanish,Spain,81
+P00055,Rodri Fati,26,Italian,Italy,75
+P00070,Ansu Le Normand,19,USA,US,75
+P00066,Gavi Ramos,18,Chinese,China,72
+P00073,Pedro Cubarsi,20,Vietnam,vietnam,74
+P00059,Alvaro Oyarzabal,23,Japanese,Japan,81
 P00072,Dani Gavi,21,Spanish,Spain,78
-P00058,Rodri Laporte,27,Spanish,Spain,80
-P00078,Ansu Fati,27,Spanish,Spain,72
-P00056,Pedro Torres,24,Spanish,Spain,78
+P00058,Rodri Laporte,27,UK,London,80
+P00078,Ansu Fati,27,Chinese,China,72
+P00056,Pedro Torres,24,USA,US,78
 P00074,Gavi Le Normand,25,Spanish,Spain,70
-P00069,Ferran Cubarsi,24,Spanish,Spain,81
+P00069,Ferran Cubarsi,24,Argentina,United,81
 P00071,Marco Mikel,18,Spanish,Spain,70
-P00076,Alvaro Gavi,28,Spanish,Spain,75
-P00067,Rodri Alonso,25,Spanish,Spain,78
-P00057,Gavi Asensio,22,Spanish,Spain,76
+P00076,Alvaro Gavi,28,Dubai,UAE,75
+P00067,Rodri Alonso,25,Dubai,UAE,78
+P00057,Gavi Asensio,22,Japanese,Japan,76
 P00062,Marco Carvajal,33,Spanish,Spain,73
-P00077,Ferran Morata,26,Spanish,Spain,78
-P00064,Aymeric Yamal,27,Spanish,Spain,80
-P00061,Ansu Alba,28,Spanish,Spain,83
+P00077,Ferran Morata,26,Japanese,Japan,78
+P00064,Aymeric Yamal,27,Vientnam,Vientnam,80
+P00061,Ansu Alba,28,UK,London,83
 P00068,Alvaro Llorente,19,Spanish,Spain,80
-P00060,Ferran Pau,35,Spanish,Spain,72
-P00075,Rodri Mikel,25,Spanish,Spain,73
-P00063,Dani Garcia,28,Spanish,Spain,80
+P00060,Ferran Pau,35,Russia,RRR,72
+P00075,Rodri Mikel,25,Russia,RRR,73
+P00063,Dani Garcia,28,Greek,Green rangers,80
 P00065,Pedro Riquelme,24,Spanish,Spain,67
 P00053,Pedro Gavi,36,Spanish,Spain,80
 P00054,Gavi Morata,27,Spanish,Spain,75
